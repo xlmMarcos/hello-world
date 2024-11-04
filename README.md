@@ -1,2 +1,2 @@
 # hello-world
-soy pablo estañ, estoy estudiando ciberseguridad y DAW
+soy pablo estañ, estoy estudiando ciberseguridad y DAW.
